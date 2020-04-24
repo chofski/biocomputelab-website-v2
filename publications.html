@@ -40,7 +40,7 @@ section: publications
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <h2>Publications</h2>
+          <h2>All Publications</h2>
           {% assign loopyear = 9999 %}
           {% for pub in site.data.publications %}
 
@@ -56,8 +56,8 @@ section: publications
             {% if pub.status != "pre-print" %}
             <div class="media">
               <div class="media-left">
-                {% if pub.status == "in-revision" or pub.status == "in-prep" or pub.status == "submitted" %}<img class="media-object thinborder" width="60" src="images/publications/in-press.gif">
-                {% else %}<img class="media-object thinborder" width="60" src="images/publications/{{pub.thumbnail}}">
+                {% if pub.status == "in-revision" or pub.status == "in-prep" or pub.status == "submitted" %}<img class="media-object border border-primary" width="60" src="images/publications/in-press.gif">
+                {% else %}<img class="media-object border border-primary" width="60" src="images/publications/{{pub.thumbnail}}">
                 {% endif %}
               </div>
               <div class="media-body">
