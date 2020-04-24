@@ -40,14 +40,16 @@ section: publications
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <h2>All Publications</h2>
+          <div class="text-center">
+            <h2>All Publications</h2>
+          </div>
           {% assign loopyear = 9999 %}
           {% for pub in site.data.publications %}
 
             {% if loopyear > pub.year %}
               {% assign loopyear = pub.year %}
               <div class="p-b-5 p-t-15 text-center">
-                <h2 class="section-heading">{{ pub.year }}</h5>
+                <h3 class="section-heading">{{ pub.year }}</h3>
                 <hr>
               </div>
             {% endif %}
