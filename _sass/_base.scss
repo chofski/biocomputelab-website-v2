@@ -283,6 +283,8 @@ header {
     position: relative;
     display: block;
     max-width: 650px;
+    height: 250px;
+    overflow: hidden;
     margin: 0 auto;
     .retreat-box-caption {
         color: white;
