@@ -1,0 +1,1023 @@
+
+- title: "SBOL Visual 2 Ontology"
+  authors: 
+    - Misirli G.
+    - Beal J.
+    - Gorochowski T.E.
+    - Stan G.-B.
+    - Wipat A.
+    - Chris Myers
+  team: 
+    - Thomas Gorochowski
+  preprint_journal: bioRxiv
+  preprint_id: 918417
+  preprint_year: 2020
+  preprint_doi: 10.1101/2020.01.24.918417
+  preprint_url: "https://doi.org/10.1101/2020.01.24.918417"
+  journal: ACS Synthetic Biology
+  volume: 9
+  issue: 4
+  pages: 972-977
+  year: 2020
+  url: "https://dx.doi.org/10.1021/acssynbio.0c00046"
+  doi: 10.1021/acssynbio.0c00046
+  tools:
+  thumbnail: 2020-SBOL-ontology.jpg
+  status: published
+
+- title: "Sequencing enabling design and learning in synthetic biology"
+  authors: 
+    - Gilliot P.A.
+    - Gorochowski T.E.
+  team: 
+    - Pierre-Aurelien Gilliot
+    - Thomas Gorochowski
+  preprint_journal: Preprints
+  preprint_id: 2020020243
+  preprint_year: 2020
+  preprint_doi: "10.20944/preprints202002.0243.v1"
+  preprint_url: "https://www.preprints.org/manuscript/202002.0243/v1"
+  journal: Current Opinion in Chemical Biology
+  volume:
+  issue:
+  pages:
+  year: 2020
+  url: "https://www.preprints.org/manuscript/202002.0243/v1"
+  doi: 
+  tools: 
+  thumbnail: in-press.gif
+  status: accepted
+  notes:
+
+- title: "Tunable genetic devices through simultaneous control of transcription and translation"
+  authors: 
+    - Bartoli V.
+    - Meaker G.A.
+    - di Bernardo M.
+    - Gorochowski T.E.
+  team: 
+    - Vittorio Bartoli
+    - Grace Meaker
+    - Thomas Gorochowski
+  preprint_journal: bioRxiv
+  preprint_id: 711275
+  preprint_year: 2019
+  preprint_doi: 10.1101/711275
+  preprint_url: "http://biorxiv.org/cgi/content/short/711275"
+  journal: Nature Communications
+  volume: 
+  issue: 
+  pages: 
+  year: 2020
+  url: "https://doi.org/10.1038/s41467-020-15653-7"
+  doi: 10.1038/s41467-020-15653-7
+  tools: 
+  thumbnail: in-press.gif
+  status: in-press
+  notes:
+
+- title: "Characterizing genetic parts and devices using RNA sequencing"
+  authors: 
+    - Vipin D.
+    - Ignatova Z.
+    - Gorochowski T.E.
+  team: 
+    - Deepti Vipin
+    - Thomas Gorochowski
+  preprint_journal:
+  preprint_id:
+  preprint_year:
+  preprint_doi:
+  preprint_url:
+  journal: "In: Menolascina F. (eds) Synthetic Gene Circuits: Methods and Protocols, Methods in Molecaulr Biology, Springer"
+  volume: 
+  issue: 
+  pages: 
+  year: 2020
+  url: 
+  doi: 
+  tools:
+  thumbnail: in-press.gif
+  status: in-press
+
+- title: "Specifications of Standards in Systems and Synthetic Biology: Status and Developments in 2020"
+  authors: 
+    - Schreiber F.
+    - Sommer B.
+    - Bader G.D.
+    - Czauderna T.
+    - Gleeson P.
+    - Golebiewski M.
+    - Gorochowski T.E.
+    - Hucka M.
+    - Keating S.M.
+    - König M.
+    - Myers C.
+    - Nickerson D.
+    - Waltemath D.
+  team: 
+    - Thomas Gorochowski
+  preprint_journal:
+  preprint_id:
+  preprint_year:
+  preprint_doi:
+  preprint_url:
+  journal: Journal of Integrative Bioinformatics
+  volume: 17
+  issue: 2
+  pages: 
+  year: 2020
+  url: 
+  doi: 
+  tools:
+  thumbnail: in-press.gif
+  status: in-press
+
+- title: "Synthetic Biology Open Language (SBOL) Version 3.0"
+  authors: 
+    - Baig H.
+    - Fontanarossa P.
+    - Kulkarni V.
+    - McLaughlin J.
+    - Vaidyanathan P.
+    - Bartley B.
+    - Grunberg R.
+    - Crowther M.
+    - Scott-Brown J.
+    - Bissell M.
+    - Clancy K.
+    - Gorochowski T.E.
+    - Misirli G.
+    - Oberortner E.
+    - Sauro H.
+    - Wipat A.
+    - Beal J.
+    - Myers C.
+  team: 
+    - Thomas Gorochowski
+  preprint_journal:
+  preprint_id:
+  preprint_year:
+  preprint_doi:
+  preprint_url:
+  journal: Journal of Integrative Bioinformatics
+  volume: 17
+  issue: 2
+  pages: 17
+  year: 2020
+  url: 
+  doi: 
+  tools:
+  thumbnail: in-press.gif
+  status: in-press
+
+- title: "Synthetic Biology Open Language Visual (SBOL Visual) Version 2.2"
+  authors: 
+    - Baig H.
+    - Fontanarossa P.
+    - Kulkarni V.
+    - McLaughlin J.
+    - Vaidyanathan P.
+    - Bartley B.
+    - Bhatia S.
+    - Bhakta S.
+    - Bissell M.
+    - Clancy K.
+    - Cox S.R.
+    - Goñi-Moreno A.
+    - Gorochowski T.E.
+    - Grunberg R.
+    - Luna A.
+    - Madsen C.
+    - Misirli G.
+    - Nguyen T.
+    - Le Novere N.
+    - Palchick Z.
+    - Pocock M.
+    - Roehner N.
+    - Sauro H.
+    - Scott-Brown J.
+    - Sexton J.T.
+    - Stan G.-B.
+    - Tabor J.J.
+    - Vilar M.V.
+    - Voigt C.A.
+    - Wipat A.
+    - Zong D.
+    - Zundel Z.
+    - Beal J.
+    - Myers C.
+  team: 
+    - Thomas Gorochowski
+  preprint_journal:
+  preprint_id:
+  preprint_year:
+  preprint_doi:
+  preprint_url:
+  journal: Journal of Integrative Bioinformatics
+  volume: 17
+  issue: 2
+  pages: 14
+  year: 2020
+  url: 
+  doi: 
+  tools:
+  thumbnail: in-press.gif
+  status: in-press
+
+- title: "Pathways to cellular supremacy in biocomputing"
+  authors: 
+    - Grozinger L.
+    - Amos M.
+    - Gorochowski T.E.
+    - Carbonell P.
+    - Oyarzún D.A.
+    - Stoof R.
+    - Fellermann H.
+    - Zuliani P.
+    - Tas H.
+    - Goñi-Moreno A.
+  team: 
+    - Thomas Gorochowski
+  preprint_journal:
+  preprint_id:
+  preprint_year:
+  preprint_doi:
+  preprint_url:
+  journal: Nature Communications
+  volume: 10
+  issue: 
+  pages: 5250
+  year: 2019
+  url: "https://www.nature.com/articles/s41467-019-13232-z"
+  doi: 10.1038/s41467-019-13232-z
+  tools:
+  thumbnail: 2019-natcomms_cellsup.png
+  status: published
+
+- title: "Communicating Structure and Function in Synthetic Biology Diagrams"
+  authors: 
+    - Beal J.
+    - Nguyen T.
+    - Gorochowski T.E.
+    - Goñi-Moreno A.
+    - Scott-Brown J.
+    - McLaughlin J.A.
+    - Madsen C.
+    - Aleritsch B.
+    - Bartley B.
+    - Bhatia S.
+    - Bissell M.
+    - Castillo-Hair S.
+    - Clancy K.
+    - Luna A.
+    - Le Novére N.
+    - Palchick Z.
+    - Pocock M.
+    - Sauro H.
+    - Sexton J.T.
+    - Tabor J.J.
+    - Voigt C.A.
+    - Zundel Z.
+    - Myers C.
+    - Wipat A.
+  team: 
+    - Thomas Gorochowski
+  preprint_journal:
+  preprint_id:
+  preprint_year:
+  preprint_doi:
+  preprint_url:
+  journal: ACS Synthetic Biology
+  volume: 8
+  issue: 8
+  pages: 1818-1825
+  year: 2019
+  url: "https://doi.org/10.1021/acssynbio.9b00139"
+  doi: 10.1021/acssynbio.9b00139
+  tools:
+  thumbnail: 2019-SBOLv-Communicate.jpg
+  status: published
+
+- title: "Living computers powered by biochemistry"
+  authors: 
+    - Greco F.V.
+    - Tarnowski M.J.
+    - Gorochowski T.E.
+  team: 
+    - F. Veronica Greco
+    - Matt Tarnowski
+    - Thomas Gorochowski
+  preprint_journal: 
+  preprint_id: 
+  preprint_year: 
+  preprint_doi: 
+  preprint_url: 
+  journal: The Biochemist
+  volume: 41
+  issue: 3
+  pages: 14-18
+  year: 2019
+  url: "http://www.portlandpresspublishing.com/sites/default/files/biochemist/Synthetic%20Biology%20June%202019/BioJUNE19_All%28Gorochowski%29.pdf"
+  doi: 10.1042/BIO04103014
+  tools: 
+  thumbnail: 2019-biochemist.jpg
+  status: published
+  notes:
+
+- title: "Absolute quantification of translational regulation and burden using combined sequencing approaches"
+  authors: 
+    - Gorochowski T.E.
+    - Chelysheva I.
+    - Eriksen M.
+    - Nair P.
+    - Pedersen S.
+    - Ignatova Z.
+  team: 
+    - Thomas Gorochowski
+  preprint_journal: bioRxiv
+  preprint_id: 338939
+  preprint_year: 2018
+  preprint_doi: 10.1101/338939
+  preprint_url: "https://www.biorxiv.org/content/early/2018/06/04/338939"
+  journal: Molecular Systems Biology
+  volume: 15
+  issue: 
+  pages: e8719
+  year: 2019
+  url: "http://msb.embopress.org/content/15/5/e8719"
+  doi: 10.15252/msb.20188719
+  tools: 
+  thumbnail: 2019-ribo_rna_seq.jpg
+  status: published
+  notes:
+
+- title: "CRISPR/Cas12a multiplex genome editing of <i>Saccharomyces cerevisiae</i> and the creation of yeast pixel art"
+  authors: 
+    - Ciurkot K.
+    - Vonk B.
+    - Gorochowski T.E.
+    - Roubos J.A.
+    - Verwaal R.
+  team: 
+    - Klaudia Ciurkot
+    - Thomas Gorochowski
+  preprint_journal: 
+  preprint_id: 
+  preprint_year: 
+  preprint_doi: 
+  preprint_url: 
+  journal: Journal of Visualized Experiments
+  volume: 147
+  issue: 
+  pages: e59350
+  year: 2019
+  url: "https://www.jove.com/video/59350"
+  doi: 10.3791/59350
+  tools: 
+  thumbnail: 2019-jove.png
+  status: published
+  notes:
+
+- title: "Synthetic Biology Open Language Visual (SBOL Visual) Version 2.1"
+  authors: 
+    - Beal J.
+    - Nguyen T.
+    - Gorochowski T.E.
+    - Goñi-Moreno A.
+    - Cox R.S.
+    - Madsen C.
+    - McLaughlin J.A.
+    - Roehner N.
+    - Aleritsch B.
+    - Bartley B.
+    - Bhatia S.
+    - Bissell M.
+    - Clancy K.
+    - Grünberg R.
+    - Luna A.
+    - Le Novére N.
+    - Palchick Z.
+    - Pocock M.
+    - Sauro H.
+    - Sexton J.T.
+    - Stan G.-B.
+    - Tabor J.J.
+    - Voigt C.A.
+    - Zundel Z.
+    - Myers C.
+    - Wipat A.
+  team: 
+    - Thomas Gorochowski
+  preprint_journal:
+  preprint_id:
+  preprint_year:
+  preprint_doi:
+  preprint_url:
+  journal: Journal of Integrative Bioinformatics
+  volume: 
+  issue: 
+  pages: 20180101
+  year: 2019
+  url: "https://doi.org/10.1515/jib-2018-0101"
+  doi: 10.1515/jib-2018-0101
+  tools:
+  thumbnail: 2019-SBOLv2.1.jpg
+  status: published
+
+- title: "Synthetic Biology Open Language (SBOL) Version 2.3"
+  authors: 
+    - Madsen C.
+    - Goñi-Moreno A.
+    - Palchick Z.
+    - Roehner N.
+    - Beal J.
+    - Bissell M.
+    - Gennari J.H.
+    - Sauro H.
+    - Clancy K.
+    - Misirli G.
+    - Myers C.
+    - Oberortner E.
+    - Macklin C.
+    - Tarter Y.
+    - Meng J.
+    - Grünberg R.
+    - Atallah C.
+    - McLaughlin J.
+    - Cox R.S.
+    - Bartley B.
+    - Pocock M.
+    - Gorochowski T.E.
+    - Scott-Brown J.
+    - Nguyen T.
+    - Samineni M.
+    - Zhang M.
+    - Zundel Z.
+    - Choi K.
+    - Zhang Z.
+    - Densmore D.
+    - Missier P.
+    - Quinn J.
+    - Stan G.-B.
+    - Wipat A.
+  team: 
+    - Thomas Gorochowski
+  preprint_journal:
+  preprint_id:
+  preprint_year:
+  preprint_doi:
+  preprint_url:
+  journal: Journal of Integrative Bioinformatics
+  volume: 
+  issue: 
+  pages: 20190025
+  year: 2019
+  url: "https://doi.org/10.1515/jib-2019-0025"
+  doi: 10.1515/jib-2019-0025
+  tools:
+  thumbnail: 2019-SBOL2.3.jpg
+  status: published
+
+- title: "Augmented reality for the engineering of collective behaviours in microsystems"
+  authors: 
+    - Rubio Denniss A.
+    - Gorochowski T.E.
+    - Hauert S.
+  team: 
+    - Ana Rubio Denniss
+    - Thomas Gorochowski
+  preprint_journal: 
+  preprint_id: 
+  preprint_year: 
+  preprint_doi: 
+  preprint_url: 
+  journal: International Conference on Manipulation, Automation and Robotics at Small Scales (MARSS)
+  volume: 
+  issue: 
+  pages: 
+  year: 2019
+  url: "https://doi.org/10.1109/MARSS.2019.8860907"
+  doi: 10.1109/MARSS.2019.8860907
+  tools: 
+  thumbnail: 2019-MARSS.jpg
+  status: published
+  notes:
+
+- title: "Designing efficient translation"
+  authors: 
+    - Gorochowski T.E.
+    - Ellis T.
+  team: 
+    - Thomas Gorochowski
+  preprint_journal: 
+  preprint_id: 
+  preprint_year: 
+  preprint_doi: 
+  preprint_url: 
+  journal: Nature Biotechnology
+  volume: 36
+  issue: 10
+  pages: 934-935
+  year: 2018
+  url: "https://www.nature.com/articles/nbt.4257"
+  doi: 10.1038/nbt.4257
+  tools: 
+  thumbnail: 2018-natbiotech.png
+  status: published
+  notes:
+
+- title: "Burden-driven feedback control of gene expression"
+  authors: 
+    - Ceroni F.
+    - Boo A.
+    - Furini S.
+    - Gorochowski T.E.
+    - Borkowski O.
+    - Ladak Y.N.
+    - Awan A.R.
+    - Gilbert C.
+    - Stan G.B.
+    - Ellis T.
+  team: 
+    - Thomas Gorochowski
+  preprint_journal: bioRxiv
+  preprint_id: 177030
+  preprint_year: 2017
+  preprint_doi: 10.1101/177030
+  preprint_url: "https://doi.org/10.1101/177030"
+  journal: Nature Methods
+  volume: 15
+  issue: 5
+  pages: 387-393
+  year: 2018
+  url: "https://www.nature.com/articles/nmeth.4635"
+  doi: 10.1038/nmeth.4635
+  tools: 
+  thumbnail: 2018-natmeth.jpg
+  status: published
+  notes:
+    - "Featured on the journal cover (<a href=https://www.nature.com/nmeth/journal/v15/n5/covers/index.html>link</a>)."
+
+- title: "Organisation of feed-forward loop motifs reveals architectural principles in natural and engineered networks"
+  authors: 
+    - Gorochowski T.E.
+    - Grierson C.S.
+    - di Bernardo M.
+  team: 
+    - Thomas Gorochowski
+  preprint_journal: bioRxiv
+  preprint_id: 188821
+  preprint_year: 2017
+  preprint_doi: 10.1101/188821
+  preprint_url: "https://doi.org/10.1101/188821"
+  journal: Science Advances
+  volume: 4
+  issue: 
+  pages: eaap9751
+  year: 2018
+  url: "http://advances.sciencemag.org/content/4/3/eaap9751"
+  doi: 10.1126/sciadv.aap9751
+  tools:
+  thumbnail: 2018-sciadv.gif
+  status: published
+
+- title: "Synthetic Biology Open Language Visual (SBOL Visual) Version 2.0"
+  authors: 
+    - Cox R.S.
+    - Madsen, C.
+    - McLaughlin J.
+    - Nguyen T.
+    - Roehner N.
+    - Bartley B.
+    - Bhatia S.
+    - Bissell M
+    - Clancy K.
+    - Gorochowski T.E.
+    - Grunberg R.
+    - Luna A.
+    - Le Novere N.
+    - Pocock M.
+    - Sauro H.
+    - Sexton J.T.
+    - Stan G.-B.
+    - Tabor J.J.
+    - Voigt C.A.
+    - Myers C.
+    - Beal J.
+    - Wipat A.
+  team: 
+    - Thomas Gorochowski
+  preprint_journal:
+  preprint_id:
+  preprint_year:
+  preprint_doi:
+  preprint_url:
+  journal: Journal of Integrative Bioinformatics
+  volume: 
+  issue: 
+  pages: 20170074
+  year: 2018
+  url: "https://www.degruyter.com/downloadpdf/j/jib.ahead-of-print/jib-2017-0074/jib-2017-0074.pdf"
+  doi: 10.1515/jib-2017-0074
+  tools:
+  thumbnail: 2018-SBOLv2.jpg
+  status: published
+
+- title: "Automated visualization of genetic designs using DNAplotlib"
+  authors: 
+    - Bartoli V.
+    - Dixon D.O.R.
+    - Gorochowski T.E.
+  team: 
+    - Vittorio Bartoli
+    - Daniel Dixon
+    - Thomas Gorochowski
+  journal: "In: Braman J. (eds) Synthetic Biology. Methods in Molecular Biology"
+  volume: 1772
+  issue: 
+  pages: Humana Press, New York, NY
+  year: 2018
+  url: "https://link.springer.com/protocol/10.1007/978-1-4939-7795-6_22"
+  doi: 10.1007/978-1-4939-7795-6_22
+  tools:
+  thumbnail: 2018-synbio-methods.jpg
+  status: published
+
+- title: "Genetic circuit characterization and debugging using RNA-seq"
+  authors: 
+    - Gorochowski T.E.
+    - Espah Borujeni A.
+    - Park Y.
+    - Nielsen A.A.K.
+    - Zhang J.
+    - Der B.S.
+    - Gordon D.B.
+    - Voigt C.A.
+  team: 
+    - Thomas Gorochowski
+  journal: Molecular Systems Biology
+  volume: 13
+  issue: 
+  pages: 952
+  year: 2017
+  url: "http://msb.embopress.org/content/13/11/952"
+  doi: 10.15252/msb.20167461
+  tools:
+  thumbnail: 2017-rnaseq_debug.jpg
+  status: published
+  notes:
+    - "Highlighted in editorial at Molecular Systems Biology (<a href=http://msb.embopress.org/content/13/12/996>link</a>)."
+
+- title: "How behaviour and the environment influence transmission in mobile groups"
+  authors: 
+    - Gorochowski T.E.
+    - Richardson T.O.
+  team: 
+    - Thomas Gorochowski
+  journal: "In: Masuda N., Holme P. (eds.) Temporal Network Epidemiology. Theoretical Biology."
+  volume: 
+  issue: 
+  pages: Springer, Singapore
+  year: 2017
+  url: "https://doi.org/10.1007/978-981-10-5287-3_2"
+  doi: 10.1007/978-981-10-5287-3_2
+  tools:
+  thumbnail: 2017-temp-chap.jpg
+  status: published
+
+- title: "A standard-enabled workflow for synthetic biology"
+  authors: 
+    - Myers C.J.
+    - Beal J.
+    - Gorochowski T.E.
+    - Kuwahara H.
+    - Madsen C.
+    - McLaughlin J.A.
+    - Mısırlı G.
+    - Nguyen T.
+    - Oberortner E.
+    - Samineni M.
+    - Wipat A.
+    - Zhang M.
+    - Zundel Z.
+  team:
+    - Thomas Gorochowski
+  journal: Biochemical Society Transactions
+  volume: 45
+  issue: 
+  pages: 793-803
+  year: 2017
+  url: "https://doi.org/10.1042/BST20160347"
+  doi: 10.1042/BST20160347
+  tools: 
+  thumbnail: 2017-biochem-soc-trans.gif
+  status: published
+
+- title: "DNAplotlib: programmable visualization of genetic designs and associated data"
+  authors: 
+    - Der B.S.
+    - Glassey E.
+    - Bartley B.A.
+    - Enghuus C.
+    - Goodman D.B.
+    - Gordon D.B.
+    - Voigt C.A.
+    - Gorochowski T.E.
+  team: 
+    - Thomas Gorochowski
+  journal: ACS Synthetic Biology
+  volume: 6
+  issue: 7
+  pages: 1115-1119
+  year: 2017
+  url: "https://doi.org/10.1021/acssynbio.6b00252"
+  doi: 10.1021/acssynbio.6b00252
+  tools:
+    - DNAplotlib
+  thumbnail: 2016-acssb-dnaplotlib.gif
+  status: published
+
+- title: "Registry in a tube: multiplexed pools of retrievable parts for genetic design space exploration"
+  authors: 
+    - Woodruff L.
+    - Gorochowski T.E.
+    - Roehner N.
+    - Mikkelsen T.
+    - Densmore D.
+    - Gordon D.B.
+    - Nicol R.
+    - Voigt C.A.
+  team: 
+    - Thomas Gorochowski
+  journal: Nucleic Acids Research
+  volume: 45
+  issue: 3
+  pages: 1553-1565
+  year: 2017
+  url: "http://nar.oxfordjournals.org/content/early/2016/12/21/nar.gkw1226.full"
+  doi: 10.1093/nar/gkw1226
+  tools:
+  thumbnail: 2016-nar.gif
+  status: published
+
+- title: Agent-based modelling in synthetic biology
+  authors: 
+    - Gorochowski T.E.
+  team: 
+    - Thomas Gorochowski
+  journal: Essays in Biochemistry
+  volume: 60
+  issue: 4
+  pages: 325-336
+  year: 2016
+  url: "http://essays.biochemistry.org/content/60/4/325"
+  doi: 10.1042/EBC20160037
+  tools:
+    - BSim
+  thumbnail: 2016-essay-bio-chem.jpg
+  status: published
+  notes:
+    - "Featured on the journal cover (<a href=http://essays.biochemistry.org/content/60/4.cover-expansion>link</a>)."
+
+- title: A minimal model of ribosome allocation dynamics captures trade-offs in expression between endogenous and synthetic genes
+  authors: 
+    - Gorochowski T.E.
+    - Avcilar-Kucukgoze I.
+    - Bovenberg R.A.L.
+    - Roubos J.A.
+    - Ignatova Z.
+  team: 
+    - Thomas Gorochowski
+  journal: ACS Synthetic Biology
+  volume: 5
+  issue: 
+  pages: 710-720
+  year: 2016
+  url: "http://pubs.acs.org/doi/abs/10.1021/acssynbio.6b00040"
+  doi: 10.1021/acssynbio.6b00040
+  thumbnail: 2016-acssb-minimal-model.gif
+  status: published
+
+- title: "Memory and combinatorial logic based on DNA inversions: dynamics and evolutionary stability"
+  authors: 
+    - Fernandez-Rodriguez J.
+    - Yang L.
+    - Gorochowski T.E.
+    - Gordon D.B.
+    - Voigt C.A.
+  team: 
+    - Thomas Gorochowski
+  journal: ACS Synthetic Biology
+  volume: 4
+  issue: 
+  pages: 1361-1372
+  year: 2015
+  url: "http://pubs.acs.org/doi/abs/10.1021/acssynbio.5b00170"
+  doi: 10.1021/acssynbio.5b00170
+  thumbnail: 2015-acssb.gif
+  status: published
+
+- title: "Beyond close-proximity interactions: the role of spatial coincidence in transmission networks"
+  authors: 
+    - Richardson T.O.
+    - Gorochowski T.E.
+  team: 
+    - Thomas Gorochowski
+  journal: Journal of the Royal Society Interface
+  volume: 12
+  issue: 
+  pages: 111
+  year: 2015
+  url: "http://rsif.royalsocietypublishing.org/content/12/111/20150705.abstract"
+  doi: 10.1098/rsif.2015.0705
+  thumbnail: 2015-interface.gif
+  status: published
+
+- title: Trade-offs between tRNA abundance and mRNA secondary structure support smoothing of translation elongation rate
+  authors: 
+    - Gorochowski T.E.
+    - Ignatova Z.
+    - Bovenberg R.A.L.
+    - Roubos J.A.
+  team: 
+    - Thomas Gorochowski
+  journal: Nucleic Acids Research
+  volume: 43
+  issue: 
+  pages: 2993-3011
+  year: 2015
+  url: "http://dx.doi.org/10.1093/nar/gkv199"
+  doi: 10.1093/nar/gkv199
+  thumbnail: 2015-nar.gif
+  status: published
+
+- title: Computational modelling and analysis of hippocampal-prefrontal information coding during a spatial decision-making task
+  authors: 
+    - Jahans-Price T.
+    - Gorochowski T.E.
+    - Wilson M.
+    - Jones M.W.
+    - Bogacz R.
+  team: 
+    - Thomas Gorochowski
+  journal: Frontiers in Behavioral Neuroscience
+  volume: 8
+  issue: 
+  pages: 62
+  year: 2014
+  url: "http://dx.doi.org/10.3389/fnbeh.2014.00062"
+  doi: 10.3389/fnbeh.2014.00062
+  thumbnail: 2014-front-beh-neruo.gif
+  status: published
+
+- title: Using synthetic biological parts and microbioreactors to explore the protein expression characteristics of Escherichia coli
+  authors: 
+    - Gorochowski T.E.
+    - van den Berg E.
+    - Kerkman R.
+    - Roubos J.A.
+    - Bovenberg R.A.L.
+  team: 
+    - Thomas Gorochowski
+  journal: ACS Synthetic Biology
+  volume: 3
+  issue: 
+  pages: 129-139
+  year: 2014
+  url: "http://dx.doi.org/10.1021/sb4001245"
+  doi: 10.1021/sb4001245
+  thumbnail: 2013-acssb.gif
+  status: published
+
+- title: Translational sensitivity of the Escherichia coli genome to fluctuating tRNA availability
+  authors: 
+    - Wohlgemuth S.E.
+    - Gorochowski T.E.
+    - Roubos J.A.
+  team: 
+    - Thomas Gorochowski
+  journal: Nucleic Acids Research
+  volume: 41
+  issue: 
+  pages: 8021-8033
+  year: 2013
+  url: "http://dx.doi.org/10.1093/nar/gkt602"
+  doi: 10.1093/nar/gkt602
+  thumbnail: 2013-nar.gif
+  status: published
+
+- title: "BSim: an agent-based tool for modeling bacterial populations in systems and synthetic biology"
+  authors: 
+    - Gorochowski T.E.
+    - Matyjaszkiewicz A.
+    - Todd T.
+    - Oak N.
+    - Kowalska K.
+    - Reid S.
+    - Tsaneva-Atanasova K.T.
+    - Savery N.J.
+    - Grierson C.S.
+    - di Bernardo M.
+  team: 
+    - Thomas Gorochowski
+    - Antoni Matyjaszkiewicz
+  journal: PLoS ONE
+  volume: 7
+  issue: 
+  pages: e42790
+  year: 2012
+  url: "http://dx.doi.org/10.1371/journal.pone.0042790"
+  doi: 10.1371/journal.pone.0042790
+  tools:
+    - BSim
+  thumbnail: 2012-bsim.gif
+  status: published
+
+- title: Using aging to visually uncover evolutionary processes on networks
+  authors: 
+    - Gorochowski T.E.
+    - di Bernardo M.
+    - Grierson C.S.
+  team: 
+    - Thomas Gorochowski
+  journal: IEEE Transactions on Visualization and Computer Graphics
+  volume: 18
+  issue: 
+  pages: 1343-1352
+  year: 2012
+  url: "http://dx.doi.org/10.1109/TVCG.2011.142"
+  doi: 10.1109/TVCG.2011.142
+  thumbnail: 2012-network-aging.gif
+  status: published
+
+- title: "Evolving dynamical networks: a formalism for describing complex systems"
+  authors: 
+    - Gorochowski T.E.
+    - di Bernardo M.
+    - Grierson C.S.
+  team: 
+    - Thomas Gorochowski
+  journal: Complexity
+  volume: 17
+  issue: 
+  pages: 18-25
+  year: 2012
+  url: "http://dx.doi.org/10.1002/cplx.20386"
+  doi: 10.1002/cplx.20386
+  thumbnail: 2010-complexity.gif
+  status: published
+  notes:
+    - "Featured on the journal cover (<a href=https://onlinelibrary.wiley.com/toc/10990526/17/3>link</a>)."
+
+- title: Synchronization and control of complex networks via contraction, adaptation and evolution
+  authors: 
+    - DeLellis P.
+    - di Bernardo M.
+    - Gorochowski T.E.
+    - Russo G.
+  team: 
+    - Thomas Gorochowski
+  journal: "IEEE Circuits and Systems Magazine: Special Issue on Complex Networks"
+  volume: 10
+  issue: 
+  pages: 64-82
+  year: 2010
+  url: "http://dx.doi.org/10.1109/MCAS.2010.937884"
+  doi: 10.1109/MCAS.2010.937884
+  thumbnail: 2010-ieee-cas-mag.gif
+  status: published
+
+- title: A dynamical approach to the evolution of complex networks
+  authors: 
+    - Gorochowski T.E.
+    - di Bernardo M.
+    - Grierson C.S.
+  team: 
+    - Thomas Gorochowski
+  journal: Proceedings of the 19th International Symposium on Mathematical Theory of Networks and Systems
+  volume: 
+  issue: 
+  pages: 1083-1087
+  year: 2010
+  url: 
+  doi: 
+  thumbnail: 2010-mtns.gif
+  status: published
+
+- title: Evolving enhanced topologies for the synchronization of dynamical complex networks
+  authors: 
+    - Gorochowski T.E.
+    - di Bernardo M.
+    - Grierson C.S.
+  team: 
+    - Thomas Gorochowski
+  journal: Physical Review E
+  volume: 81
+  issue: 
+  pages: 056212
+  year: 2010
+  url: "http://dx.doi.org/10.1103/PhysRevE.81.056212"
+  doi: 10.1103/PhysRevE.81.056212
+  thumbnail: 2010-evolving-sync.gif
+  status: published
