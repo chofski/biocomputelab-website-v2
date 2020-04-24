@@ -56,8 +56,8 @@ section: publications
             {% if pub.status != "pre-print" %}
             <div class="media">
               <div class="media-left">
-                {% if pub.status == "in-revision" or pub.status == "in-prep" or pub.status == "submitted" %}<span class="border border-primary"><img class="media-object" width="60" src="images/publications/in-press.gif"></span>
-                {% else %}<span class="border border-primary"><img class="media-object border border-primary" width="60" src="images/publications/{{pub.thumbnail}}"></span>
+                {% if pub.status == "in-revision" or pub.status == "in-prep" or pub.status == "submitted" %}<span class="border"><img class="media-object" width="60" src="images/publications/in-press.gif"></span>
+                {% else %}<span class="border"><img class="media-object border border-primary" width="60" src="images/publications/{{pub.thumbnail}}"></span>
                 {% endif %}
               </div>
               <div class="media-body">
