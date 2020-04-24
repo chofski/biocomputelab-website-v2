@@ -226,8 +226,9 @@ teamshot {
         padding: 100px 15px 100px;
         width: 100%;
     }
+    /*
     @media (min-width: 100%) {
-        min-height: auto;
+        /* min-height: auto; */
         .teamshot-content {
             position: absolute;
             top: 50%;
@@ -237,6 +238,7 @@ teamshot {
             padding: 0 50px;
         }
     }
+    */
 }
 
 // Sections
