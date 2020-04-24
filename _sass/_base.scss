@@ -214,7 +214,6 @@ header {
 teamshot {
     position: relative;
     width: 100%;
-    min-height: auto;
     @include background-cover;
     background-position: center;
     background-image: url('../images/groupshot.jpg');
@@ -226,19 +225,6 @@ teamshot {
         padding: 100px 15px 100px;
         width: 100%;
     }
-    /*
-    @media (min-width: 100%) {
-        /* min-height: auto; */
-        .teamshot-content {
-            position: absolute;
-            top: 50%;
-            -webkit-transform: translateY(-50%);
-            -ms-transform: translateY(-50%);
-            transform: translateY(-50%);
-            padding: 0 50px;
-        }
-    }
-    */
 }
 
 // Sections
