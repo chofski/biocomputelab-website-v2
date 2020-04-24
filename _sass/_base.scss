@@ -227,15 +227,7 @@ teamshot {
         width: 100%;
     }
     @media (min-width: 768px) {
-        min-height: 50%;
-        .teamshot-content {
-            position: absolute;
-            top: 50%;
-            -webkit-transform: translateY(-50%);
-            -ms-transform: translateY(-50%);
-            transform: translateY(-50%);
-            padding: 0 50px;
-        }
+        min-height: 100%;
     }
 }
 
