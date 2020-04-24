@@ -1,0 +1,30 @@
+---
+title: News - Biocompute Lab
+section: news
+---
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+<body id="page-top">
+{% include nav.html %}
+
+ <section class="bg-master-lightest p-t-90 p-b-40 no-overflow">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+
+          <h2 class="title">{{ page.title }}</h2>
+          <p><b>{{ page.date | date: '%B %d, %Y' }}</b></p>
+          {{ content }}
+
+        </div>
+      </div>
+  </div>
+</section>
+
+{% include contact.html %}
+{% include scripts.html %}
+</body>
+
+</html>
