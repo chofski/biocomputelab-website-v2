@@ -14,7 +14,7 @@ section: publications
     <div class="container">
       <div class="row">
         <div class="col-md-12 text-center">
-          <h2>Pre-Prints</h2><hr><br>
+          <h2>Pre-Prints</h2><hr class="light">
             {% for pub in site.data.publications %}
               {% if pub.status == "pre-print" %}
                 <p class="fs-14"><a href="{{pub.preprint_url}}"><b>{{pub.title}}</b></a><br>
@@ -42,15 +42,15 @@ section: publications
         <div class="col-md-12">
           <div class="text-center">
             <h2>All Publications</h2>
+            <hr>
           </div>
           {% assign loopyear = 9999 %}
           {% for pub in site.data.publications %}
 
             {% if loopyear > pub.year %}
               {% assign loopyear = pub.year %}
-              <div class="p-b-5 p-t-15 text-center">
+              <div class="p-b-5 p-t-15 text-left">
                 <h3 class="section-heading">{{ pub.year }}</h3>
-                <hr>
               </div>
             {% endif %}
 
