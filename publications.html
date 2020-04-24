@@ -13,8 +13,8 @@ section: publications
   <section class="bg-primary">
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
-          <h2>Pre-Prints</h2><br>
+        <div class="col-md-12 text-center">
+          <h2>Pre-Prints</h2><hr><br>
             {% for pub in site.data.publications %}
               {% if pub.status == "pre-print" %}
                 <p class="fs-14"><a href="{{pub.preprint_url}}"><b>{{pub.title}}</b></a><br>
